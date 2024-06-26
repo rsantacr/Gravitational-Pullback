@@ -4,5 +4,6 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+Gravitational Pullback is a blog to talk about one of my hobbies: Roleplaying Games.
+
+Here you will find ideas, opinions and whatnot about the Indie and OSR parts of this interesting hobby.
