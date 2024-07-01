@@ -14,16 +14,16 @@ timezone: Europe/Dublin
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Gravitational Pullback # the main title
+title: Hilbert's Infinite Dice  # the main title
 
-tagline: RPGs from yet another perspective # it will display as the sub-title
+tagline: Paradoxes, tabletop RPGs and, maybe, Schrödinger.  # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  Yet another blog on RPGs. OSR, Indies and, maybe, Schrödinger.
+  Yet another blog on RPGs. OSR, Indies and whatnot.
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
-url: 
+url: "https://rsantacr.github.io"
 
 github:
   username: rsantacr # change to your github username
@@ -148,7 +148,7 @@ pwa:
 paginate: 10
 
 # The base URL of your site
-baseurl: "/gravitational-pullback"
+baseurl: "/hilbert-dice"
 
 # ------------ The following options are not recommended to be modified ------------------
 
